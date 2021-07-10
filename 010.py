@@ -1,0 +1,6 @@
+input(5)
+print("    *")
+print("   ***")
+print("  *****")
+print(" *******")
+print("*********")
